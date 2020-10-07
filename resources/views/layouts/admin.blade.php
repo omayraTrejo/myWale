@@ -104,7 +104,7 @@
                 <i class="fa fa-angle-left pull-right"></i>
               </a>
               <ul class="treeview-menu">
-                <li><a href="{{url('departamento/ListaDepartamento')}}">
+                <li><a href="{{url('departamentolista/ListaDepartamento')}}">
                     <i class="fa fa-th-large"></i>
                   </i>Listos Departamentos</a>
                 </li>
