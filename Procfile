@@ -1,3 +1,3 @@
-relese: bash ./desploy.sh
+release: bash ./desploy.sh
 
-web:vendor/bin/hereroku-php-apache2 public/
+web: vendor/bin/hereroku-php-apache2 public/
